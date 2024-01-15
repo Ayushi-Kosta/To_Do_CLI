@@ -3,6 +3,7 @@ Todo is a super fast and simple tasks organizer written in rust
 
 ## Usage
 Example: todo list
+
 Available commands:
 
     - [ ] add [TASK/s]
