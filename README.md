@@ -1,6 +1,6 @@
 # To_Do_CLI
 
-##Usage
+## Usage
 Todo is a super fast and simple tasks organizer written in rust
 Example: todo list
 Available commands:
